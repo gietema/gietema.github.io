@@ -20,6 +20,7 @@
 
 $dark: #233F94;
 $primary: #233F94;
+$enable-responsive-font-sizes: true;
 
 @import 'bootstrap/bootstrap';
 
@@ -29,4 +30,9 @@ body {
 h1 {
     font-weight: bold;
     font-size: 5em;
+}
+@media (max-width: 575.98px) { 
+    h1 {
+        font-size: 2em;
+    }
 }
