@@ -1,0 +1,19 @@
+# (Work in progress)
+
+This week I joined the EA Fellowship to think more deeply about effective altruism. This post contains a some of my thoughts related to the reading material for week one.
+
+
+
+One thing that struck me when reading the book was the similarity with startups and the business world. In the end, all that matters for a startup is that they build something that users want. Charities work in a similar way; they only work if they create something that is valuable for their users. PlayPump was the charity equivalent of a hyped startup with a lot of funding that didn't know how to solve a problem for its users.
+
+However, there seems to be at least one important difference between startups and charities: the feedback loop is very different. Startups usually build something for users who pay for that service. Charities receive money from donors who are not the end user. Typical donors will be satisfied right at the moment that they have donated money. The act of giving is what gives them satisfaction. Few donors care about a rigourous analysis of a charities' efficacy. This allows some charities to be ineffective for a much longer period than startups - the money can keep coming in although beneficiaries might not be satisfied.
+
+This leads to a system where weird things can happen. William gives two striking comparisons that show that the world of charities is very different from the normal world:
+- Doing groceries based on what you are willing to pay, without knowing what you will get
+- Investing in a company based on a single street pitch
+The result of this .. is that charities do not have to be incredibly effective to continue. They have to show is that they are fighting for a good cause.
+
+What does this mean for someone who wants to donate to charities? It means that you need to be extra careful when deciding what to donate to. Some charities are much, much more effective than others.
+
+
+
