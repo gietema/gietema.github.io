@@ -1,3 +1,11 @@
+---
+layout: default
+title:  "Caring"
+date:   2021-04-20 23:31:23 +0100
+categories: posts
+published: true
+---
+
 # (Work in progress)
 
 This week I joined the EA Fellowship to think more deeply about effective altruism. This post contains a some of my thoughts related to the reading material for week one.
