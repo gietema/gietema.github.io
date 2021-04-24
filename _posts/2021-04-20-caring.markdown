@@ -1,27 +1,48 @@
 ---
 layout: default
-title:  "Caring"
+title:  "How many people benefit and by how much?"
 date:   2021-04-20 23:31:23 +0100
 categories: posts
 published: true
 ---
 
-# (Work in progress)
+### EA Fellowship Week 1 - How many people benefit and by how much?
 
-This week I joined the EA Fellowship to think more deeply about effective altruism. This post contains a some of my thoughts related to the reading material for week one.
+Last week I joined the [EA Fellowship](https://www.effectivealtruism.org/virtual-programs/introductory-fellowship/) to think more deeply 
+about effective altruism.
+This post contains some thoughts related 
+to the reading material for week one: chapter 1-3 of Doing Good Better by William MacAskill
+and the blogpost 'On Caring' by Nate Soares.
 
+MacAskill describes that effective altruism is about [five main questions](https://earthbound.report/2016/10/10/five-questions-for-effective-altruism/).  
+Chapter two and three are about the first two questions: 
 
+1. How many people benefit, and by how much?
+1. Is this the most effective thing you can do?
 
-One thing that struck me when reading the book was the similarity with startups and the business world. In the end, all that matters for a startup is that they build something that users want. Charities work in a similar way; they only work if they create something that is valuable for their users. PlayPump was the charity equivalent of a hyped startup with a lot of funding that didn't know how to solve a problem for its users.
+The book starts with the example of PlayPump. PlayPump is charity that deploys water pumps 
+that uses the energy created by children playing on a merry-go-round to operate a water pump. 
 
-However, there seems to be at least one important difference between startups and charities: the feedback loop is very different. Startups usually build something for users who pay for that service. Charities receive money from donors who are not the end user. Typical donors will be satisfied right at the moment that they have donated money. The act of giving is what gives them satisfaction. Few donors care about a rigourous analysis of a charities' efficacy. This allows some charities to be ineffective for a much longer period than startups - the money can keep coming in although beneficiaries might not be satisfied.
+<img src="http://www.playpumps.co.za/wp-content/uploads/2010/09/Copy-of-Kids-at-play-original-900x500.jpg">
 
-This leads to a system where weird things can happen. William gives two striking comparisons that show that the world of charities is very different from the normal world:
-- Doing groceries based on what you are willing to pay, without knowing what you will get
-- Investing in a company based on a single street pitch
-The result of this .. is that charities do not have to be incredibly effective to continue. They have to show is that they are fighting for a good cause.
+At first sight this looks like a wonderful idea. PlayPump combines joy with something useful. However, in practice it means that adults have to walk in endless circles to get water out of the ground.  
+The PlayPump simply doesn't generate enough energy to provide sufficient amounts of water. And children do not want to play with a merry-go-round all day.
+Additionally, playpumps can break down and can be difficult to repair.
+The pumps are more expensive than regular pumps.  
+After some consideration, it should be relatively clear that this is not one of the best charities in the world.
+Nevertheless, the PlayPump project won prestigious awards in the 2000s. It got endorsements from Laura Bush and Jay-Z.
+It received more than 60 million USD in funding and was able to install 1800 PlayPumps by 2009.  
 
-What does this mean for someone who wants to donate to charities? It means that you need to be extra careful when deciding what to donate to. Some charities are much, much more effective than others.
+Now, misjudgments like this happen all too often. And it looks like PlayPump has [changed course](https://casefoundation.org/blog/painful-acknowledgment-coming-short/) somewhat. But is PlayPump a charity you should donate to if you care about helping the most people?
+We should aim to donate to more effective charities. In fact, every time we are not donating to the best projects,
+we are helping fewer people than we could have helped. 
 
+But how do you figure out which charity is the most effective one?
+Most of them do not tell you how many people benefit and by how much.
+They may tell you that they will buy schoolbooks or medicines. But what is the benefit of those goods relative to other interventions?
 
+QALYs and randomized control trials have helped to answer these sorts of questions to some extend. 
+They give us a measure and a method that makes it easier to compare the efficiency of different causes directly,
+although both have their limitations as well. 
 
+...
